@@ -1,5 +1,5 @@
 {
-	"name": "aifb-smw/mediawiki-css",
+	"name": "aifb-smw-mw/mediawiki-css",
 	"type": "mediawiki-extension",
 	"description": "CSS extension for media wiki",
 	"require-dev": {
