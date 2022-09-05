@@ -1,4 +1,7 @@
 {
+	"name": "aifb-smw/mediawiki-css",
+	"type": "mediawiki-extension",
+	"description": "CSS extension for media wiki",
 	"require-dev": {
 		"mediawiki/mediawiki-codesniffer": "38.0.0",
 		"mediawiki/minus-x": "1.1.0",
